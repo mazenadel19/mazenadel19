@@ -9,13 +9,18 @@
 
 - 🌱 I’m learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /> and <img src="https://mk0everlive3exbo7x1p.kinstacdn.com/wp-content/uploads/2019/02/MongoDB-Icon.png" width="35" height="35">
 
+- 📌 I'm currently working on:
+
+ [![MEARN-Study-Notes](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=MEARN-Study-Notes)](https://github.com/mazenadel19/MEARN-Study-Notes)
+
+
 - 💬 Ask me about: web development, and tech related career advice.
 
 - 👯  I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
    
  - 😄 Pronouns: He/Him
 
- - ⚡ Fun facts about me: I used to play Basketball🏀   
+ - ⚡ Fun facts about me: I used to play Basketball 🏀   
 
 </p>
 
