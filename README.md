@@ -62,7 +62,7 @@
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
-  Get a fulltime job   
+  Get a fulltime job as a Fullstack Web Developer 
 </details>
 
 <p align="center">
