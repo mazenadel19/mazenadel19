@@ -11,7 +11,7 @@
 
 - 📌 I'm currently working on:
 
- [![MEARN-Study-Notes](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=MEARN-Study-Notes)](https://github.com/mazenadel19/MEARN-Study-Notes)
+ [![Study-Notes](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=MEARN-Study-Notes)](https://github.com/mazenadel19/MEARN-Study-Notes)
 
 
 - 💬 Ask me about: web development, and tech related career advice.
