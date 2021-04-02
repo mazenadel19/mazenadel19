@@ -9,9 +9,11 @@
 
 - 🌱 I’m learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /> and <img src="https://mk0everlive3exbo7x1p.kinstacdn.com/wp-content/uploads/2019/02/MongoDB-Icon.png" width="35" height="35">
 
+
 - 📌 I'm currently working on:
 
- [![Study-Notes](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=Study-Notes)](https://github.com/mazenadel19/Study-Notes)
+[![YelpCamp](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=YelpCamp)](https://github.com/mazenadel19/YelpCamp)
+
 
 
 - 💬 Ask me about: web development, and tech related career advice.
@@ -37,7 +39,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="react" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />  
 </div></td><td valign="top" width="33%">
 
