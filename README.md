@@ -78,7 +78,7 @@
 </details>
 
 <p align="center">
-  <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FdsKnRuALlWsZG%2Fgiphy.gif&f=1&nofb=1">
+  <img align="center" src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif">
 </p>
 
 <!--
