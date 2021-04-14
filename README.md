@@ -1,4 +1,6 @@
-## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 
 <p>
  
@@ -76,6 +78,39 @@
   <summary><b>:telescope: 2021 goal</b></summary>
   Get a fulltime job as a Fullstack Web Developer 
 </details>
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenadel19&hide_border=true" />
+</details>
+
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Mint 20.04</li>
+	    <li><b>Laptop: </b> Aspire-E5-571G (i5)</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
+	    <li><b>Code Editor:</b> VSCode </li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+</details>
+
+
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif">
