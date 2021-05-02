@@ -80,7 +80,7 @@
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
-  Get a fulltime job as a Fullstack Web Developer 
+  Get a fulltime job as a Frontend Web Developer 
 </details>
 
 ### Projects and Dev Stuffs:
