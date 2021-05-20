@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I’m learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /> and <img src="https://mk0everlive3exbo7x1p.kinstacdn.com/wp-content/uploads/2019/02/MongoDB-Icon.png" width="35" height="35">
+- 🌱 I’m learning Web Development Technologies in Frontend <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />   --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /> and <img src="https://mk0everlive3exbo7x1p.kinstacdn.com/wp-content/uploads/2019/02/MongoDB-Icon.png" width="35" height="35">
 
 
 - 📌 I'm currently working on:
@@ -42,7 +42,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="react" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="react" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />  
 </div></td><td valign="top" width="33%">
 
@@ -69,10 +69,10 @@
 <p >
 <a target="_blank" href="https://www.linkedin.com/in/mazenadel19/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <!--<a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <button>
-<!-- <a target="_blank" href="https://mazen-emam.netlify.app/" ><img src="https://img.shields.io/static/v1?label&message=My%20Portfolio&color=yellow&style=for-the-badge"/></a> &nbsp;&nbsp;&nbsp; -->
-</button>
+ <a target="_blank" href="https://mazen-emam.netlify.app/" ><img src="https://img.shields.io/static/v1?label&message=My%20Portfolio&color=yellow&style=for-the-badge"/></a> &nbsp;&nbsp;&nbsp; 
+</button>-->
 
 </p>
 
