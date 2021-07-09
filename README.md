@@ -19,7 +19,7 @@ Improving the world one line of code at a time.
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m learning Web Development Technologies in
-  Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /> and <img src="https://mk0everlive3exbo7x1p.kinstacdn.com/wp-content/uploads/2019/02/MongoDB-Icon.png" width="35" height="35">
+  Frontend and Backend
 
 <!--
 - 📌 I'm currently working on:
@@ -28,8 +28,7 @@ Improving the world one line of code at a time.
 
 <!-- - 💬 Ask me about: web development, and tech related career advice. -->
 
-- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects,
-  with the community, for the community
+- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
 - 😄 Pronouns: He/Him
 
@@ -63,21 +62,6 @@ Improving the world one line of code at a time.
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenadel19&hide_border=true" />
-</details>
-
-<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -89,6 +73,23 @@ Improving the world one line of code at a time.
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 </details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenadel19&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<br>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif">
