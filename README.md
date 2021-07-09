@@ -39,18 +39,19 @@ Improving the world one line of code at a time.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<div style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongo" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</div><div style="display: inline-block; margin: 15px;"><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="50" />
-</div>
+
+<a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
+</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongo" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
+</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
+</a>
 
 <hr/>
 
