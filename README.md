@@ -1,8 +1,7 @@
-## Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
-<br>
-
-My name is Mazen, I'm a freelance web designer/developer, I'm a geek with passion for coding.<br>
+My name is Mazen, I'm a freelance Front End Developer, I'm a geek with passion for coding.<br>
 Improving the world one line of code at a time.
 
 <a target="_blank" href="https://www.linkedin.com/in/mazenadel19/">
@@ -18,8 +17,7 @@ Improving the world one line of code at a time.
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning Web Development Technologies in
-  Frontend and Backend
+- 🌱 I’m learning about React.js and other Front End libaries
 
 <!--
 - 📌 I'm currently working on:
@@ -56,10 +54,11 @@ Improving the world one line of code at a time.
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
+<br>
   Get a fulltime job as a Frontend Developer
 </details>
 
-### Projects and Dev Stuffs:
+<h3>Projects and Dev Stuffs:</h3>
 
 <details>
   <br />
@@ -85,8 +84,8 @@ Improving the world one line of code at a time.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <br>
