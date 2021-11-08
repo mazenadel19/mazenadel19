@@ -17,7 +17,7 @@ Improving the world one line of code at a time.
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning about React.js and other Front End libaries
+- 🌱 I’m learning React.js and other Front End libaries
 
 <!--
 - 📌 I'm currently working on:
@@ -40,7 +40,6 @@ Improving the world one line of code at a time.
 <a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
 </a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="32" width ='32px' />
@@ -55,8 +54,15 @@ Improving the world one line of code at a time.
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
 <br>
-  Get a fulltime job as a Frontend Developer
+  Get a fulltime job as a Frontend Developer ✔️
 </details>
+
+<details>
+  <summary><b>:telescope: 2022 goal</b></summary>
+<br>
+  Become a Mid-Level Developer 
+</details>
+
 
 <h3>Projects and Dev Stuffs:</h3>
 
