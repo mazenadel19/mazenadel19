@@ -1,8 +1,8 @@
 <h1>Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
-My name is Mazen, I'm a freelance Front End Developer, I'm a geek with passion for coding.<br>
-Improving the world one line of code at a time.
+<h3>My name is Mazen, a full-time React Developer at <a href="https://akwad-arabia.com/">Akwad</a>, I'm a geek with passion for coding.<br>
+	Improving the world one line of code at a time.</h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/mazenadel19/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +17,7 @@ Improving the world one line of code at a time.
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning React.js and other Front End libaries
+- 🌱 I’m learning Typescript, React.js and other Front End libaries
 
 <!--
 - 📌 I'm currently working on:
@@ -40,14 +40,15 @@ Improving the world one line of code at a time.
 <a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
 </a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="32" width ='32px' />
+</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="32" width ='32px' /><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
+</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
+</a><!-- </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="32" width ='32px' />
 </a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="mongo" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
-</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
-</a>
+</a>-->
 
 <hr/>
 
