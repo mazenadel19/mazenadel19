@@ -1,4 +1,4 @@
-<h1>Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
 </h1>
 
 <h3>My name is Mazen, a full-time React Developer at <a href="https://akwad-arabia.com/">Akwad</a>, I'm a geek with passion for coding.<br>
@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> </h2>
 
 
 <a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
