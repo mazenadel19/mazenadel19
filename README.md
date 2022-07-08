@@ -1,30 +1,20 @@
-<h1>Hello Fellow < Developers/ >! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
-</h1>
+# Hello Fellow < Developers/ >!👋
 
-<h3>My name is Mazen, a full-time React Developer at <a href="https://akwad-arabia.com/">Akwad</a>, I'm a geek with passion for coding.<br>
-	Improving the world one line of code at a time.</h3>
+### My name is Mazen, I'm a Frontend Developer with one year of experience, used to work @<a href="https://akwad-arabia.com/">Akwad</a>, currently I'm <ins><a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen">open for hiring!</a></ins>
 
 <a target="_blank" href="https://www.linkedin.com/in/mazenadel19/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-<!--<button>
- <a target="_blank" href="https://mazen-emam.netlify.app/" ><img src="https://img.shields.io/static/v1?label&message=My%20Portfolio&color=yellow&style=for-the-badge"/></a> &nbsp;&nbsp;&nbsp;
-</button>-->
-
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" /></a>
+<a target="_blank" href="https://www.codewars.com/users/maz1na9el"><img src="https://img.shields.io/badge/Codewars-B1361E?&style=flat&logo=codewars&logoColor=greye" /></a>
 <br>
 
-<h2> About Me&nbsp;&nbsp;<img src = "https://cdn2.scratch.mit.edu/get_image/user/67844577_60x60.png" width = 35px></h2>
+## About Me 👨‍💻
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m learning Typescript, React.js and other Front End libaries
-
-<!--
-- 📌 I'm currently working on:
-
- [![YelpCamp](https://github-readme-stats.vercel.app/api/pin/?username=mazenadel19&repo=YelpCamp)](https://github.com/mazenadel19/YelpCamp) -->
-
-<!-- - 💬 Ask me about: web development, and tech related career advice. -->
 
 - 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
 
@@ -34,8 +24,7 @@
 
 <hr/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> </h2>
-
+## Skills 🕹️
 
 <a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
 </a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
