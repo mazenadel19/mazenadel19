@@ -8,6 +8,7 @@
 <a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
 <a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" /></a>
 <a target="_blank" href="https://www.codewars.com/users/maz1na9el"><img src="https://img.shields.io/badge/Codewars-B1361E?&style=flat&logo=codewars&logoColor=greye" /></a>
+<a href="https://profile.codersrank.io/user/mazenadel19/"><img src="https://img.shields.io/badge/-codersrank-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
 <br>
 
 ## About Me 👨‍💻
