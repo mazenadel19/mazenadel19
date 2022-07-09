@@ -25,7 +25,15 @@
 
 <hr/>
 
-## 🕹️ Skills 
+
+
+<details>
+	<summary> <h2>🕹️ Skills</h2> </summary>
+  <br />
+	<img src="https://memegenerator.net/img/instances/80565769/what-i-do-have-are-a-very-particular-set-of-skills-skills-i-have-acquired-over-a-long-career.jpg" width="50%">
+
+</details>
+
 
 <a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
 </a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
