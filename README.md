@@ -46,7 +46,7 @@
 
 <hr />	
 
-### 🎯 Goals:
+### 🎯 Goals
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
 <br>
