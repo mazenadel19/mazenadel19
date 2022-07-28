@@ -86,8 +86,11 @@
   <summary><b>⚡ Github Stats</b></summary>
 
 <br />	
-<img height="180em" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=mazenadel19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+[![mazenadel19's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mazenadel19&count_private=true&showicons=true&hide_border=true)]()
+[![mazenadel19's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mazenadel19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)]()
+
+  
 </details>
 
 
