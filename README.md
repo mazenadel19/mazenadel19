@@ -1,4 +1,4 @@
-# Hello Fellow &lt;Developers /&gt;!👋
+# Hello Fellow &lt;Developers /&gt;! 👋
 
 ## My name is Mazen, I'm a Frontend Developer with 1 year of experience, formly worked @[Akwad](https://akwad-arabia.com), currently I'm <ins>[open for hiring!](mailto:mazenadel19@gmail.com?subject=Hello%20Mazen)</ins>
 
