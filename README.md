@@ -2,7 +2,7 @@
 
 ## My name is Mazen, I'm a Frontend Developer with 1 year of experience, formly worked @[Akwad](https://akwad-arabia.com), currently I'm <ins>[open for hiring!](mailto:mazenadel19@gmail.com?subject=Hello%20Mazen)</ins>
 
-<a target="_blank" href="https://www.linkedin.com/in/mazenadel19/">
+<a target="_blank" href="https://www.linkedin.com/in/mazen-adel19/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mazenadel19@gmail.com?subject=Hello%20Mazen"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
