@@ -29,7 +29,7 @@
 
 <details>
 	<summary> <h3>🕹️ Skills</h3> </summary>
-<img src="https://memegenerator.net/img/instances/80565769/what-i-do-have-are-a-very-particular-set-of-skills-skills-i-have-acquired-over-a-long-career.jpg" width="50%">
+<img src="https://media.giphy.com/media/UpWDPgxcHiR1e/giphy.gif" width="50%">
 
 </details>
 
