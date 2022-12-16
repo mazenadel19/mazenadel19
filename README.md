@@ -57,7 +57,13 @@
 <details>
   <summary><b>:telescope: 2022 goal</b></summary>
 <br>
-  Become a Mid-Level Developer 
+  Become a Mid-Level Developer ❌
+</details>
+
+<details>
+  <summary><b>:telescope: 2023 goal</b></summary>
+<br>
+ Become a Software Engineer not a Developer
 </details>
 
 <hr />
