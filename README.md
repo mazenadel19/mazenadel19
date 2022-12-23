@@ -72,7 +72,9 @@
 <details>
   <summary><b>:telescope: 2023 goal</b></summary>
 <br>
- Become a Software Engineer not a Developer
+ - Become a Software Engineer not a Developer 
+<br/>
+ - Make my First Open Source Contribution
 </details>
 
 <hr />
