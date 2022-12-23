@@ -33,15 +33,24 @@
 
 </details>
 
-<a href=''><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
-</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
-</a><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="32" width ='32px' /><a href=''><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
-</a><a href=''><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
+<p align="left">  
+<a href='#'><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
+</a><a href='#'><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
+</a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="32"/>
+</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
+</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="32" width ='32px' />
+</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
+</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
+</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="32" width ='32px' /><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
+</a><a href='#'><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
+</a><a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/>
+</a><a href="#"><img src="http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="figma" width="32" height="32"/>
+</a><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32"/>
 </a>
+</p>
+ 
+---
+
 	
 ### [➡️ Repositories Index](https://github.com/mazenadel19/Projects-List)
 
