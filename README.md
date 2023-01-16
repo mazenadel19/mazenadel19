@@ -1,6 +1,6 @@
 # Hello Fellow &lt;Developers /&gt;! 👋
 
-## My name is Mazen, I'm a Frontend Developer with 2 years of experience, currently working @[Asgatech](https://asgatech.com/), I'm <ins>[open for hiring!](mailto:mazenadel19@gmail.com?subject=Hello%20Mazen)</ins>
+## My name is Mazen, I'm a Frontend Developer with 2 years of experience, currently working @[Asgatech](https://asgatech.com/).
 
 <a target="_blank" href="https://www.linkedin.com/in/mazen-adel19/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
