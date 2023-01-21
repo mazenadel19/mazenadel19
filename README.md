@@ -43,7 +43,8 @@
 </a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
 </a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="32" width ='32px' />
 <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="32" width="32" /></a>
-<a href="#"><img src="https://mobx.js.org/img/mobx.png" alt="MobX" height="32" width="32" /></a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
+<a href='#'><img  src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" height="32" width ='32px' />
+</a><a href="#"><img src="https://mobx.js.org/img/mobx.png" alt="MobX" height="32" width="32" /></a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
 </a><a href='#'><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
 </a><a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/>
 </a><a href="#"><img src="http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="figma" width="32" height="32"/>
