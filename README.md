@@ -27,6 +27,13 @@
 
 <hr/>
 
+	
+### [➡️ Portfolio](https://mazenadel19.vercel.app/)
+### [➡️ Repositories Index](https://github.com/mazenadel19/Projects-List)
+
+<hr />	
+
+
 <details>
 	<summary> <h3>🕹️ Skills</h3> </summary>
 <img src="https://media.giphy.com/media/UpWDPgxcHiR1e/giphy.gif" width="50%">
@@ -53,12 +60,6 @@
 </p>
  
 ---
-
-	
-### [➡️ Portfolio](https://mazenadel19.vercel.app/)
-### [➡️ Repositories Index](https://github.com/mazenadel19/Projects-List)
-
-<hr />	
 
 ### 🎯 Goals
 <details>
