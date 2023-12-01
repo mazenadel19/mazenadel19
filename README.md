@@ -63,19 +63,19 @@
 
 ### 🎯 Goals
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2021 goals</b></summary>
 <br>
   Get a full-time job as a Frontend Developer ✔️
 </details>
 
 <details>
-  <summary><b>:telescope: 2022 goal</b></summary>
+  <summary><b>:telescope: 2022 goals</b></summary>
 <br>
   Become a Mid-Level Developer ✔️
 </details>
 
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:telescope: 2023 goals</b></summary>
 <br>
  - Become a Software Engineer, not a Developer ❌
 <br/>
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary><b>:telescope: 2024 goal</b></summary>
+  <summary><b>:telescope: 2024 goals</b></summary>
 <br>
  - Learn a new technology
 </details>
