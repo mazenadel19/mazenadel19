@@ -77,9 +77,9 @@
 <details>
   <summary><b>:telescope: 2023 goals</b></summary>
 <br>
- - Become a Software Engineer, not a Developer ❌ *failed because too vague*
+ - Become a Software Engineer, not a Developer ❌ <i>failed because too vague</i>
 <br/>
- - Make a Contribution to an Open Source  to another project I'm passionate about ❌  *50/50 reported two bugs for a library, but I was looking forward to fixing something* 
+ - Make a Contribution to an Open Source  to another project I'm passionate about ❌  <i>50/50 reported two bugs for a library, but I was looking forward to fixing something</i> 
 </details>
 
 <details>
