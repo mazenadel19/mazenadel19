@@ -17,9 +17,9 @@
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning Typescript, React.js and other Front End libaries
+- 🌱 I’m learning Typescript, React.js, and other Front End libraries
 
-- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
+- 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community
 
 - 😄 Pronouns: He/Him
 
@@ -77,15 +77,15 @@
 <details>
   <summary><b>:telescope: 2023 goals</b></summary>
 <br>
- - Become a Software Engineer, not a Developer ❌
+ - Become a Software Engineer, not a Developer ❌ *failed because too vague*
 <br/>
- - Make an Open Source Contribution to another project I'm passionate about ❌
+ - Make a Contribution to an Open Source  to another project I'm passionate about ❌  *50/50 reported two bugs for a library, but I was looking forward to fixing something* 
 </details>
 
 <details>
   <summary><b>:telescope: 2024 goals</b></summary>
 <br>
- - Learn a new technology
+ - Learn a React Native
 </details>
 <hr />
 
