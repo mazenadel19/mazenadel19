@@ -79,7 +79,7 @@
 <br>
  - Become a Software Engineer, not a Developer ❌
 <br/>
- - Make my First Open Source Contribution ❌
+ - Make an Open Source Contribution to another project I'm passionate about ❌
 </details>
 
 <details>
