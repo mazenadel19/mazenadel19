@@ -17,7 +17,7 @@
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning Typescript, React.js, and other Front End libraries
+- 🌱 I’m learning React Native
 
 - 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community
 
