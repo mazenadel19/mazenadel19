@@ -1,6 +1,6 @@
 # Hello Fellow &lt;Developers /&gt;! 👋
 
-## My name is Mazen, I'm a Frontend Developer with 3 years of experience
+## My name is Mazen, I'm a Frontend Developer with \(3 + 5 = 8\) years of experience
 
 <a target="_blank" href="https://www.linkedin.com/in/mazen-adel19/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
@@ -40,23 +40,10 @@
 
 </details>
 
-<p align="left">  
-<a href='#'><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML5" height="32" width ='32px'  />
-</a><a href='#'><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" height="32" width ='32px' />
-</a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="32"/>
-</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" width ='32px' />
-</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="32" width ='32px' />
-</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" width ='32px' />
-</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="32" width ='32px' />
-</a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" height="32" width ='32px' />
-<a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="32" width="32" /></a>
-<a href='#'><img  src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" height="32" width ='32px' />
-</a><a href="#"><img src="https://mobx.js.org/img/mobx.png" alt="MobX" height="32" width="32" /></a><a href='#'><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="32" width ='32px' />
-</a><a href='#'><img  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" alt="Linux" height="32" width ='32px' />
-</a><a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="32" height="32"/>
-</a><a href="#"><img src="http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="figma" width="32" height="32"/>
-</a><a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="32" height="32"/>
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,react,redux,materialui,firebase,git,linux,postman,figma,xd" />
+  </a>
 </p>
  
 ---
