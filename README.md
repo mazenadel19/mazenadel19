@@ -81,10 +81,10 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
 	<ul>
-	    <li><b>OS:</b> Mint 20.04</li>
+	    <li><b>OS:</b> Lubuntu 20.04</li>
 	    <li><b>Laptop: </b> Aspire-E5 (i5)</li>
 	    <li><b>Browser: </b> Chrome Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Terminator</li>
+	    <li><b>Terminal: </b> ZSH: Terminal</li>
 	    <li><b>Code Editor:</b> VSCode </li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
