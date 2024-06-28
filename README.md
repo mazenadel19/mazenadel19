@@ -29,7 +29,6 @@
 
 	
 ### [➡️ Portfolio](https://mazenadel19.vercel.app/)
-### [➡️ Repositories Index](https://github.com/mazenadel19/Projects-List)
 
 <hr />	
 
