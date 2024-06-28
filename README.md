@@ -32,7 +32,7 @@
 
 <hr />	
 
-
+<!--
 <details>
 	<summary> <h3>🕹️ Skills</h3> </summary>
 <img src="https://media.giphy.com/media/UpWDPgxcHiR1e/giphy.gif" width="50%">
@@ -46,6 +46,8 @@
 </p>
  
 ---
+
+-->
 
 ### 🎯 Goals
 <details>
@@ -85,7 +87,7 @@
 	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Terminal</li>
 	    <li><b>Code Editor:</b> VSCode </li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, and Linkedin.</li>
 	    <br />
 </details>
 
