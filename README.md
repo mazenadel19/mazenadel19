@@ -1,6 +1,6 @@
 # Hello Fellow &lt;Developers /&gt;! 👋
 
-## My name is Mazen, I'm a Frontend Developer with 3 years of experience
+## My name is Mazen, I'm a Frontend Developer with over 3 years of experience
 
 <a target="_blank" href="https://mazenadel19.vercel.app/?utm_source=github&utm_medium=social"><img src="https://img.shields.io/badge/✨ Portfolio-000000?style=flat&logoColor=white" /></a>
 <a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" /></a>
