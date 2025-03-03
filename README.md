@@ -1,6 +1,6 @@
 # Hello Fellow &lt;Developers /&gt;! 👋
 
-## My name is Mazen, I'm a Frontend Engineer with over 4 years of experience
+## My name is Mazen, I'm a front-end engineer with over 4 years of experience
 
 <a target="_blank" href="https://mazenadel19.vercel.app/?utm_source=github&utm_medium=social"><img src="https://img.shields.io/badge/✨ Portfolio-000000?style=flat&logoColor=white" /></a>
 <a target="_blank" href="https://medium.com/@mazenadel19"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" /></a>
@@ -18,17 +18,17 @@
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m learning React Native
+- 🌱 I’m interested in learning about React Native, Next.JS, and Unit/Integration Testing
 
-- 👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community
+- 👯 I’m looking to collaborate on developing new and intriguing open-source projects with the community for the community
 
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun facts about me: I used to play Basketball 🏀
 
+<!--
 <hr />	
 
-<!--
 <details>
 	<summary> <h3>🕹️ Skills</h3> </summary>
 <img src="https://media.giphy.com/media/UpWDPgxcHiR1e/giphy.gif" width="50%">
@@ -42,8 +42,6 @@
 </p>
  
 ---
-
--->
 
 ### 🎯 Goals
 <details>
@@ -109,3 +107,7 @@
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif">
 </p>
+
+-->
+
+
